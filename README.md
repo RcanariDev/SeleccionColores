@@ -6,11 +6,6 @@
 library(scales)
 ```
 
-```{r eval = FALSE}
-# install.packages("devtools")
-devtools::install_github("JBGruber/highlightr")
-```
-
 
 <br/>
 <br/>
