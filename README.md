@@ -6,8 +6,9 @@
 library(scales)
 ```
 
-<br\>
-<br\>
+<br/>
+<br/>
+<br/>
 
 - Número de colores
 
